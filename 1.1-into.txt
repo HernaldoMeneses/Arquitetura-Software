@@ -1,0 +1,25 @@
+Implementação, design ou arquitetura?
+    Implementação
+        Código
+        Ferramentas
+        Versões
+        Homologações
+        Produções
+        Linguagem
+        Legibilidade do Código
+        (...)
+    arquitetura
+        Visão holistica
+        Interdependencias
+        Dependências
+        Direcionamento
+        (...)
+    design
+        Visão Local
+        Interpretação da Implementação
+        Analise das interações entre partes determinadas
+
+    (Não há isolamento dessas partes)
+
+"Conhecer profundamente as ferramentas é o primeiro passo para poder
+fazer as perguntas corretas ao enfrentar o cenário de uma nova aplicaçõa"
