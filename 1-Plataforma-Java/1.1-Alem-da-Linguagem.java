@@ -39,6 +39,11 @@
                     Linux
     */
 
+/*
+    Os bytecodes Java
+*/ 
+
+
    /*
    ver bytecodes Java
    pag. 24/265
